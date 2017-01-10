@@ -1,0 +1,5 @@
+length: 10 characters from UPPER HEX (0123456789ABCDEF)
+no more than 5 alpha chars in the password (yes ABCDE01234 no ABCDEF0123)
+no more than 2 consecutive chars (yes AABCDEF012 no AAABCDEF01)
+no more than 2 equal numbers in the password (yes A1A123456 no A1A123451)
+no more than 3 equal alpha chars in the password (yes 8017C24CCF, no C017C24CCF)
